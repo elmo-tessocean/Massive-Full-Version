@@ -251,4 +251,4 @@ This repository serves as the official landing page for Massive. The software is
 **Get the most recent version of Massive today!**
 
 ---
-**Last updated:** 2026-10-31 21:58:05 UTC
+**Last updated:** 2026-11-01 00:38:02 UTC
